@@ -1,0 +1,248 @@
+
+# WHAT ALL COMPUTER SCIENCE MAJORS SHOULD KNOW:
+################################################
+
+
+
+# LIST - CONTENTS
+
+Portfolio versus resume
+Technical Communication
+An engineering core
+The Unix Phiolosophy
+Systems administration
+Programming languages
+Discrete mathematics
+Data structures and algorithms
+Theory
+Arthitecture
+Operating Systems
+Networking
+Security
+Cryptography
+Software Testing
+User experience Design
+Visualization
+Parallelism
+Software Engineering
+Formal methods
+Graphics and simulation
+Robotics
+Artifical Intelligence
+Machine learning
+Databases
+
+
+
+
+# GUIDE
+#########
+
+
+
+
+
+# PORTFOLIO VERSUS RESUME
+computer science programs take a resume-based approach to hiring off their graduates.
+A resume says nothing of a programmer's ability.
+
+Every computer science major should build a portfolio.
+A portfolio could be as simple as a personal blog, 
+with a post for each project or accomplishment. 
+
+A better portfolio would include per-project pages, and publicly browsable code (hosted perhaps on github or Google code).
+
+A code portfolio allows employers to directly judge ability.
+
+GPAs and resumes do not.
+
+
+# EXAMPLES - Coder Portfolio's
+http://pydanny.blogspot.com/2011/08/github-is-my-resume.html
+http://www.mjbshaw.com/
+http://ezyang.com/
+
+
+
+
+
+
+
+
+
+
+# TECHNICAL COMMUNICATION
+Modern computer scientists must practice persuasively and clearly communicating their ideas to non-programmers.
+
+I would recommend that students master a presentation tool like PowerPoint or (my favorite) Keynote. (Sorry, as much as I love them, LaTeX-based presentation tools are just too static.)
+
+For producing beautiful mathematical documentation, LaTeX has no equal. All written assignments in technical courses should be submitted in LaTeX.
+
+
+# READING
+http://matt.might.net/articles/how-to-email/
+http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk-html.html
+http://www-cs-faculty.stanford.edu/~uno/klr.html
+
+
+
+
+
+
+
+
+# AN ENGINEERING CORE
+Computer scientists will find themselves working with engineers.
+
+Computer scientists and traditional engineers need to speak the same language--a language rooted in real analysis, linear algebra, probability and physics.
+
+Computer scientists ought to take physics through electromagnetism. But, to do that, they'll need take up through multivariate calculus, (and differential equations for good measure).
+
+In constructing sound simulations, a command of probability and (often times) linear algebra is invaluable. In interpreting results, there is no substitute for a solid understanding of statistics.
+
+# READING
+
+
+
+
+
+
+
+
+
+# THE UNIX PHILOSOPHY
+The Unix philosophy (as opposed to Unix itself) is one that emphasizes linguistic abstraction and composition in order to effect computation.
+
+In practice, this means becoming comfortable with the notion of command-line computing, text-file configuration and IDE-less software development.
+
+# specific skills:
+navigate and manipulate the filesystem;
+compose processes with pipes;
+comfortably edit a file with emacs and vim;
+create, modify and execute a Makefile for a software project;
+write simple shell scripts.
+
+# Advantages to UNIX
+Students will reject the Unix philosophy unless they understand its power. Thus, it's best to challenge students to complete useful tasks for which Unix has a comparative advantage, such as:
+
+Find the five folders in a given directory consuming the most space.
+Report duplicate MP3s (by file contents, not file name) on a computer.
+Take a list of names whose first and last names have been lower-cased, and properly recapitalize them.
+Find all words in English that have x as their second letter, and n as their second-to-last.
+Directly route your microphone input over the network to another computer's speaker.
+Replace all spaces in a filename with underscore for a given directory.
+Report the last ten errant accesses to the web server coming from a specific IP address.
+
+
+
+
+
+
+
+
+# SYSTEM ADMINISTRATION
+The thinking is that a computer scientist can teach herself how to do anything a technician can do.
+
+This is true. (In theory.)
+
+Yet this attitude is misguided: computer scientists must be able to competently and securely administer their own systems and networks.
+
+
+Every modern computer scientist should be able to:
+
+Install and administer a Linux distribution.
+Configure and compile the Linux kernel.
+Troubleshoot a connection with dig, ping and traceroute.
+Compile and configure a web server like apache.
+Compile and configure a DNS daemon like bind.
+Maintain a web site with a text editor.
+
+
+
+# PROGRAMMING LANGUAGES
+
+Programming languages rise and fall with the solar cycle.
+
+A programmer's career should not.
+The best way to learn how to learn progamming languages is to learn multiple programming languages and programming paradigms.
+
+The difficulty of learning the nth language is half the difficulty of the (n-1)th.
+Cut and crimp a network cable.
+
+# Specific languages:
+RAcket;
+C;
+JavaScript
+Squeak
+Java
+Standard ML
+Prolog
+Scala
+Haskell
+C++
+Assembly
+
+
+
+
+
+
+# DISCRETE MATHEMATICS:
+Computer scientists must have a solid grasp of formal logic and of proof. Proof by algebraic manipulation and by natural deduction engages the reasoning common to routine programming tasks. Proof by induction engages the reasoning used in the construction of recursive functions.
+
+Computer scientists must be fluent in formal mathematical notation, and in reasoning rigorously about the basic discrete structures: sets, tuples, sequences, functions and power sets.
+
+For computer scientists, it's important to cover reasoning about:
+
+trees;
+graphs;
+formal languages; and
+automata.
+
+Students should learn enough number theory to study and implement common cryptographic protocols.
+
+
+
+# DATA STRUCTURES AND ALGORITHMS #
+Students should certainly see the common (or rare yet unreasonably effective) data structures and algorithms.
+
+But, more important than knowing a specific algorithm or data structure (which is usually easy enough to look up), computer scientists must understand how to design algorithms (e.g., greedy, dynamic strategies) and how to span the gap between an algorithm in the ideal and the nitty-gritty of its implementation.
+
+
+
+At a minimum, computer scientists seeking stable long-run employment should know all of the following:
+
+hash tables;
+linked lists;
+trees;
+binary search trees; and
+directed and undirected graphs.
+Computer scientists should be ready to implement or extend an algorithm that operates on these data structures, including the ability to search for an element, to add an element and to remove an element.
+
+For completeness, computer scientists should know both the imperative and functional versions of each algorithm
+
+
+
+
+
+
+
+
+
+# THEORY
+A grasp of theory is a prerequisite to research in graduate school.
+
+Theory is invaluable when it provides hard boundaries on a problem (or when it provides a means of circumventing what initially appear to be hard boundaries).
+
+Computational complexity can legitimately claim to be one of the few truly predictive theories in all of computer "science."
+
+A computer scientist must know where the boundaries of tractability and computability lie. To ignore these limits invites frustration in the best case, and failure in the worst.
+
+
+At the undergraduate level, theory should cover at least models of computation and computational complexity.
+
+Models of computation should cover finite-state automata, regular languages (and regular expressions), pushdown automata, context-free languages, formal grammars, Turing machines, the lambda calculus, and undecidability.
+
+At the undergraduate level, students should learn at least enough complexity to understand the difference between P, NP, NP-Hard and NP-Complete.
+
+To avoid leaving the wrong impression, students should solve a few large problems in NP by reduction to SAT and the use of modern SAT solvers.
