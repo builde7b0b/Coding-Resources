@@ -1,0 +1,32 @@
+
+
+Biiological Neural Networks
+
+A Biological neural Network refers to the information processing elements of the nervous system, organized as a collection of neural cells, called neurons, that are interconnected in networks and interact with each other using electrochemical signals.
+
+A biological neuron is generally comprised of dendtrites which provide the input signals to the cell.
+The neuron reacts to input signals and may produce an output signal on its output connection called and axon which is connected to the dendrites of other neurons via synapses.
+
+The study of biological neural networks falls within the domain of neuroscience which is a branch of biology concerned with th enervous system.
+Neuroanatomy is a subject that is concerned with the structure and function of groups of neural networks both with regard to parts of the brain and the structures the lead from and to the brain from teh rest of the body.
+
+Neuropsychology is another discipline concerned with the structure and function of the brain as they relate to abstract psychological behaviors.
+
+
+
+# ARFICIAL NEURAL NETWORKS
+The field of Artifical neural Networks (ANN) is concerned with the investigation of computational models inspired by theories and observation of teh structure and function of biological networks of neural cells in teh brain.
+They are generally designed as models for addressing mathematical, computational, and engineering problems.
+
+An Artifical neural Network is generally comprised of a collection of artifical neurons that are interconnected in order to perform some computation on input patterns and create output patterns.
+They are adaptive systems capable of modifying their internal structure, typically the weights between nodes in the network, allowing them to be used for a variaty of function approximation problems such as classification, regression, feature extraction and content addressable memory.
+
+Two categories of many types of neural networks:
+Feed-forward Networks and Recurrnet Networks.
+
+Feed-forward NEtworks where input is provided on one side of the network and the signlas are propagated forward(in one direction) through the network structure to the other side where output signals are read.
+These networks may be comprised of one cell, one layer or multiple layers of neurons.
+Some examples include the Perceptron, Radial Basis Function Netowrks, and the multi-layer perceptron networkks.
+
+Recurrent Networks where cycles in the network are permitted and the structure may be fully interconnected.
+Examples include the Hopfield Network and Bidirectional Associative Memory.
