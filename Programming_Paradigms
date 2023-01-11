@@ -1,0 +1,72 @@
+
+Three standard programming paradigms that may be used to implement the algorithms described.
+Procedural Programming
+Object Oriented Programming
+Flow Programming
+
+
+
+
+# PROCEDURAL PROGRAMMING
+
+Description
+The procedural programming paradigm(also called imperative programming) is concerned with defining a linear procedure or sequence of programming statements.
+A key feature of the paradigm is the partitioning of functionality into small discrete reusable modules called procedures(subroutines or functions) that act like small programs themselves with their own scope, inputs and outputs.
+
+Procedural programming was an early so-calle dhigh -level programming paradigm(compared to lower-level machine code) and is the most common the well understood form of programming.
+Newer paradigms (such as Object_Oriented programming) an dmodern businesses programming languages(C++, Java and C#) are built on the principles of procedural programming.
+
+All algorithms in this book were implemented using a procedural programming paradigm in the Ruby programming language.
+
+
+
+
+
+
+
+
+
+# OBJECT-ORIENTED PROGRAMMING
+
+The Object-Oriented programming(OOP) paradigm is concerned with modeling problems in terms o fentities alled objects that have attributes and behaviors(data and methods) and interact with other entities using message passing(calling methods on othe rentities.)
+An object developer defines a class or template for the entity, which is instantiated or constructed and then may be used in the program.
+
+Objects can extend othe robjects, inheriting osme or all of the attributes and behaviors from the parent providing specific modular reuse.
+Objects can be treated as a parent type(an object in its inheritance tree) allowing the use or application of the objects in the program without the caller knowing the specifics of the behavior or data inside the object.
+This general property is called polymorphism, which exploits the encapsulation of attributes and behavior within objects and their capability of being treated (viewed or interacted with) as a parent type.
+
+
+There are common ways of solving discrete problems using object-oriented programs called patterns.
+They are organizations of behavior and data that have been abstracted and presented as a solution or idiom for a class of problem.
+
+The Strategy Pattern is an object-oriented pattern that is suited to implementing an algorithm.
+
+
+
+
+
+# FLOW PROGRAMMING
+Flow, data-flow, or pipeline programming involves chaining a sequence of smaller processes together and allowing a flow of information through the sequence in order to perform the desired computation. Units in the flow are considered black-boxes that communicate with each other using message passing. The information that is passed between the units is considered a stream and a given application may have one or more streams of potentially varying direction. Discrete information in a stream is partitioned into information packets which are passed from unit-to-unit via message buffers, queues or similar data structures.
+
+
+A flow organization allows computing units to be interchanged readily. It also allows for variations of the pipeline to be considered with minor reconfiguration. A flow or pipelining structure is commonly used by software frameworks for the organization within a given algorithm implementation, allowing the specification of operators that manipulate candidate solutions to be varied and interchanged.
+
+
+
+
+
+
+
+
+
+
+
+
+# OTHER PARADIGMS
+A number of popular and common programming paradigms have been considered in this section, although many more have not been described.
+
+Many programming paradigms are not appropriate for implementing algorithms as-is, but may be useful with the algorithm as a component in a broader system, such as Agent-Oriented Programming where the algorithm may be a procedure available to the agent. Meta-programming a case where the capabilities of the paradigm may be used for parts of an algorithm implementation, such as the manipulation of candidate programs in Genetic Programming. Aspect-Oriented Programming could be layered over an object oriented algorithm implementation and used to separate the concerns of termination conditions and best solution logging.
+
+Other programming paradigms provide variations on what has already been described, such as Functional Programming which would be similar to the procedural example, and Event-Driven Programming that would not be too dissimilar in principle to the Flow-Based Programming. Another example is the popular idiom of Map-Reduce which is an application of functional programming principles organized into a data flow model.
+
+Finally, there are programming paradigms that are not relevant or feasible to consider implementing algorithms, such as Logic Programming.
