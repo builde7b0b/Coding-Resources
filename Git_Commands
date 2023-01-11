@@ -1,0 +1,38 @@
+##############################
+# GIT HUB COMMAND LINE STUFF #
+##############################
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+http://stackoverflow.com/questions/6004453/how-to-remove-multiple-deleted-files-in-git-repository
+https://github.com/bpassos/git-commands
+https://services.github.com/
+
+
+# Short Links:
+--------------
+builde7b0b.github.io
+https://builde7b0b.github.io/SampleSiteNew/ > www.ecbjr.us
+
+
+# Git Setup:
+------------
+git config --global user.name builde7b0b
+git config --global user.email sifutype@mail.com
+
+
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'
+
+
+# Remotely Handling Files:
+___________________________
+
+# Save all changes to current repo:
+$ git push origin master
+
+# ADD REMOTE REPO'S:
+----
+$ git remote
+
+$ git remote add pb https://github.com/paulboone/ticgit
+$ git remote -v
+
