@@ -1,0 +1,45 @@
+
+# THE MOST IMPORTANT ALGORITHMS #
+#################################
+
+
+
+# LIST - CONTENTS
+
+A* search algorithm
+Beam Search
+Binary Search
+Branch And bound
+Buchbergers algorithm
+Data compression
+Diffie-hellmankey exchange
+Diikstras algorithm
+Discrete differentiation
+Dynamic Programming
+
+
+
+
+
+
+
+# GUIDE
+
+
+A* Search Algorithm
+Graph search Algorithm that finds a path from a given initial node to a given goal node.
+It employs a heuristic estimate that rank each node by an estimate of the best route that goes through that node.
+It visits the nodes in order of this heuristic estimate.
+The A* algorithm is therefore an example of best-first search.
+
+
+Beam Search
+Beam search is a search algorithm that is an optimization of best-first search.
+Like best-first search, it uses a heuristic function to evaluate to the promise of each node it examines.
+Beam search, however, only unfolds the first m most promising nodes at each depth, where m is a fixed number, the beam width.
+
+Binary search 
+Technique for finding a particular value in a linear array, by ruling out half of the data at each step.
+
+Branch And Bound
+A general algorithmic method for finding optimal solutions of various optimization problems, especially in discrete and combinatorial optimization.
