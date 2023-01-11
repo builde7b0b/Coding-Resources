@@ -1,0 +1,16 @@
+# FLOW-BASED PROGRAMMING
+
+
+
+
+Panta rhei (Panta rhei) - Everything flows.
+
+
+
+
+In computer programming, Flow-Based Programming (FBP) is a programming paradigm that uses a "data factory" metaphor for designing and building applications.
+FBP defines applications as networks of black box processes, which exchange data across predefined connections by message passing, where the connecctions are specified externally to the processes.
+These black box processes can be reconnected endlessly to form different applications without having to be changed internally.
+FBP is thus naturally compnent-oriented.
+
+FBP is a particular form of dataflow programming based on bounded buffers, information packets with defined lifetimes, named ports, and separate definition of connections.
