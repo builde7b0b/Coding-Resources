@@ -1,0 +1,415 @@
+
+"# OPEN-SOURCE TOOLS FOR DEVELOPERS
+http://www.datamation.com/open-source/101-open-source-tools-for-developers-4.html
+
+# API CREATION TOOLS
+Apigility
+falcon
+Loopback
+
+# BUGTRACKERS TOOLS
+Bugzilla
+GNATS
+
+# INTEGRATED DEVELOPMENT ENVIRONMENTS(IDEs) TOOLS
+Anjuta DevStudio
+Cloud9 IDE
+Code ::blocks
+Dev-C++
+Dirigible
+Eclipse
+IntelliJ IDEA
+Kdevelop
+Mono
+NetBeans
+SharpDevelop
+Ultimate++
+
+
+# JAVASCRIPT FRAMEWORKS AND LIBRARIES TOOLS
+AngularJS
+Backbone js
+Chaplin.js
+Crypton
+Ember.js
+Flight
+Grunt
+Hamer.js
+Jquery
+Meteor
+Mojito
+
+Node.js
+Node-RED
+Prototype
+SheetSee.js
+Wakanda
+
+#MOBILE DEVELOPMENT
+AML
+Appceleratr Titanium
+Cocos2d-x
+Cordova
+Game Editor
+Ionic
+IpFaces
+JQuery Mobile
+Kurogo
+Moai
+MoSync SDK
+OpenMEAP
+PhoneGap development framework
+Qt
+Restkit
+Rhodes
+Sencha Touch
+ThyM
+TouchDevelop
+
+
+# MODELING
+ArgoUML
+
+
+# PARALLEL PROGRAMMING
+Intel Threaded Building Blocks
+
+
+# PROGRAMMING LANGUAGES
+Go
+Dart
+F# 
+Lua
+java
+Perl
+PHP
+Python
+R
+Ruby
+TypeScript
+
+
+# TESTING
+applum
+soapUI
+SonarQube
+
+# TEXT EDITORS
+ATPad
+CodeMirror
+Emacs
+jEdit
+Notepad++
+TEA
+textmate
+vim
+XML copy editor
+
+
+# VERSION CONTROL
+Bazaar
+Git
+subversion
+TortoiseSVN
+
+
+# WEB DEVELOPMENT
+ASP.NET
+bluefish
+bootstrap
+Bower
+Brackets
+Catalyst
+Conditioner
+Evolutility
+Gestalt
+JHipster
+Jo
+KompoZer
+MediaGoblin
+Nette Framework
+OpenBD
+Phaser
+Ruby on Rails
+Zend Framework
+ZK
+ZURM foundation
+
+
+
+
+
+# OPEN-SOURCE TOOLS FOR DEVELOPERS #
+http://www.datamation.com/open-source/101-open-source-tools-for-developers-4.html
+######################################################
+
+# API CREATION
+	
+	# Apigility
+	- Apigility claims to be "the world's easiest way to create high-quality APIs." 
+	- It allows users to get started creating their first API in just seconds, and it works with all PHP frameworks and libraries. 
+	- Operating System: Windows, Linux, OS X
+
+	# falcon
+	- Designed to be light, fast and flexible, Falcon is a Python framework for building cloud APIs and web app back-ends. 
+	- Fairly new, its website proclaims that it has been "Unburdening cloud apps for over 2.16 x 10-2 centuries" (thats a little over two years). 
+	- Operating System: Windows, Linux, OS X
+
+	# Loopback
+	- LoopBack describes itself as a "powerful Node.js framework for creating APIs and easily connecting to backend data sources."
+	- Noteworthy users include GoDaddy, Bank of America, the U.S. Department of Energy and Symantec. 
+	- Operating System: Windows, Linux, OS X, Android, iOS
+
+# BUGTRACKERS
+	
+	# Bugzilla
+	- This defect-tracking software is very popular with open source projects and is used by organizations like Mozilla, Eclipse, Apache, Red Hat and the Linux kernel project. 
+	- It tracks bugs and code changes, allows developers to submit and review patches, enables team communication and helps manage quality assurance. 
+	- Operating System: Windows, Linux, OS X
+
+	# GNATS
+	- GNATS is the Gnu projects bug tracking system. 
+	- Gnatsweb provides a web interface for the command line tool, and several third-party interfaces are also available. 
+	- Operating System: OS Independent
+
+
+
+# INTEGRATED DEVELOPMENT ENVIRONMENTS(IDEs)
+
+	# Anjuta DevStudio
+	- This IDE supports multiple programming languages, including C, C++, Java, JavaScript, Python and Vala. 
+	- It includes an interactive debugger, source code editor, version control system, GUI designer, and project management features. 
+	- Operating System: Linux
+
+	# Cloud9 IDE
+	- Cloud9 gives developers access to a cloud-based code editor and Ubuntu workspace. 
+	- The link above connects users to the hosted service with free and paid plans available; 
+	- users can also set up their own Web server hosting the IDE using the code from GitHub. 
+	- Operating System: OS Independent
+
+	# Code ::blocks
+	- This extensible IDE supports C, C++ and Fortran. 
+	- Features include support for multiple compilers, multi-target projects, syntax highlighting, code completion, smart indent, an integrated debugger and more. 
+	- Operating System: Windows, Linux, OS X
+
+	# Dev-C++
+	- Dev-C++ supports C and C++, and it includes an integrated debugger, project management, customizable syntax highlighting, code completion, class browser and more. 
+	- The link above takes you to the original project, but there is also a fork that has been updated more recently on the Dev-C++ Blog.
+	- Operating System: Windows
+
+	# Dirigible
+	- Sponsored by SAP, Dirigible describes itself as an Integrated Development Environment as a Service (IDEaaS). 
+	- This link connects to the hosted service (which is currently available for free), and the code is available through GitHub. 
+	- Operating System: OS Independent
+
+	# Eclipse
+	- One of the most well-known and popular groups of development tools, Eclipse offers IDEs for Java, Java EE, C/C++ and PHP. 
+	- The Eclipse Foundation also sponsors a whole host of related projects available through the site. 
+	- Operating System: OS Independent
+
+	# IntelliJ IDEA
+	- Calling itself the "most intelligent Java IDE, IntelliJ IDEA supports enterprise, mobile and Web development."
+	- It comes in a free community edition or a paid ultimate edition. 
+	- Operating System: Windows, Linux, OS X
+
+	# Kdevelop
+	- KDEs development environment boasts full-featured support for C/C++ and some other languages. 
+	- Although it was developed for the KDE Linux desktop, it also runs on GNOME and other desktops, as well as Windows and Unix. 
+	- Operating System: Windows, Linux, OS X
+
+	# Mono
+	- Mono describes itself as "an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime." 
+	- It enables rapid development of cross-platform applications. 
+	- Previously sponsored by Novell, its now owned by Xamarin. 
+	- Operating System: Windows, Linux, OS X, iOS, Android
+
+	# NetBeans
+	- Useful for creating desktop, mobile or Web apps, NetBeans supports Java, HTML5, PHP, C/C++ and several other programming languages. 
+	- It has won several awards and boasts a large library of plug-ins. 
+	- Operating System: Windows, Linux, OS X
+
+	# SharpDevelop
+	- SharpDevelop (also written #develop) is a free IDE for the .NET platform. 
+	- It supports Microsoft languages like C#, VB.NET, Boo, IronPython, IronRuby and F#. 
+	- Operating System: Windows
+
+	# Ultimate++
+	- Designed for C++ development, Utlimate++, or U++, boasts that it can makes rebuilds four times faster than its competitors. 
+	- It includes a wealth of tools that speed programming include documentation generators, visual designers and a code analyzer. 
+	- Operating System: Windows, Linux
+
+
+
+
+
+
+
+# JAVASCRIPT FRAMEWORKS AND LIBRARIES
+
+	# AngularJS
+	- Sponsored by Google, this "superheroic" JavaScript framework aims to make it easier to add dynamic content to HTML Web pages. 
+	- Its embeddable and extensible and works with a wide range of other development tools. 
+	- Operating System: OS Independent
+
+
+	# Backbone js
+	- Backbone promises to add structure to your Web applications. 
+	- ItS useful for developing rich client-side applications and promises more freedom than some other JavaScript frameworks. Operating System: OS Independent
+
+	# Chaplin.js
+	- Chaplin.js is an architecture for Backbone.js applications. 
+	- It was designed to address some of the limitations of Backbone.js and help developers quickly create single-page Web apps. Operating System: Windows, Linux
+
+	# Crypton
+	- This JavaScript framework is all about protecting users privacy. 
+	- It allows developers to build applications that encrypt all data stored on the server, without requiring developers to become experts in cryptography. 
+	- Operating System: OS Independent
+
+	# Ember.js
+	- Used by organizations like Groupon, LivingSocial, Yahoo, Zendesk and Square, Ember.js describes itself as "a framework for creating ambitious Web applications." 
+	- It features auto-updating handlebars templates that allow developers to write less code when creating new apps. 
+	- Operating System: OS Independent
+
+	# Flight
+	- Twitter created this lightweight, event-drivien JavaScript framework for use on its own Web apps and has open sourced the code for everyone. 
+	- It maps behavior to DOM nodes. 
+	- Operating System: OS Independent
+
+	# Grunt
+	- This JavaScript task runner automates tasks like minification, compilation, unit testing and linting.
+	 - Its users include Twitter, jQuery, Adobe, Mozilla, WordPress, Walmart and others. 
+	 - Operating System: OS Independent
+
+	# Hammer.js
+	- Hammer.js is a JavaScript library for recognizing touch and mouse gestures. 
+	- It recognizes pan, pinch, press, rotate, swipe and tap gestures by default, and it is very useful for building mobile-friendly Web apps. 
+	- Operating System: OS Independent
+
+	# Jquery
+	- This popular JavaScript library simplifies HTML document manipulation, event handling, animation and Ajax and claims to have "changed the way that millions of people write JavaScript." 
+	- Its sponsors include WordPress, Famo.us, and IBM. 
+	- Operating System: OS Independent
+
+	# Meteor
+
+	# Mojito
+
+
+	# Node.js
+	# Node-RED
+
+	# Prototype
+
+	# SheetSee.js
+
+	# Wakanda
+
+
+
+
+
+
+
+
+# MOBILE DEVELOPMENT
+	# AML
+	# Appceleratr Titanium
+	# Cocos2d-x
+	# Cordova
+	# Game Editor
+	# Ionic
+	# IpFaces
+	# JQuery Mobile
+	# Kurogo
+	# Moai
+	# MoSync SDK
+	# OpenMEAP
+	# PhoneGap development framework
+	# Qt
+	# Restkit
+	#R hodes
+	# Sencha Touch
+	# ThyM
+	# TouchDevelop
+
+
+
+# MODELING
+	#ArgoUML
+
+
+
+
+# PARALLEL PROGRAMMING
+	#Intel Threaded Building Blocks
+
+
+
+
+# PROGRAMMING LANGUAGES
+	#Go
+	#Dart
+	F# 
+	#Lua
+	#java
+	#Perl
+	#PHP
+	#Python
+	#R
+	#Ruby
+	#TypeScript
+
+
+
+
+# TESTING
+	#applum
+	#soapUI
+	#SonarQube
+
+
+
+# TEXT EDITORS
+	ATPad
+	CodeMirror
+	Emacs
+	jEdit
+	Notepad++
+	TEA
+	textmate
+	vim
+	XML copy editor
+
+
+
+
+# VERSION CONTROL
+	Bazaar
+	Git
+	subversion
+	TortoiseSVN
+
+
+
+
+# WEB DEVELOPMENT
+	ASP.NET
+	bluefish
+	bootstrap
+	Bower
+	Brackets
+	Catalyst
+	Conditioner
+	Evolutility
+	Gestalt
+	JHipster
+	Jo
+	KompoZer
+	MediaGoblin
+	Nette Framework
+	OpenBD
+	Phaser
+	Ruby on Rails
+	Zend Framework
+	ZK
+	ZURM foundation
