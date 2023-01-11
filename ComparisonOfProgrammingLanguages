@@ -1,0 +1,47 @@
+
+# BASIC:
+--------------------------
+	10 INPUT A
+	20 INPUT B
+	30 C=A+B
+	40 PRINT C
+
+	RUN
+
+
+# C:
+-------------------------------
+	#include <stdio.h>
+
+	int main(int argc, char*argv[])
+	{
+		int a,b,c;
+
+		scanf("%d",&a);
+		scanf("%d",&b);
+
+		c = a+b;
+		printf("%d\n",c);
+	}
+
+	%> gcc -o add add.c
+	%> ./add
+
+
+# PYTHON:
+-------------------------------
+	import sys
+
+	a = sys.stdin.readline()
+	b = sys.stdin.readline()
+	c = int(a) + int(b)
+	print c
+
+	%> python add.py
+
+# PYTHON:
+----------------------------
+	a = input()
+	b = input()
+	c = a + b
+	print c
