@@ -11,11 +11,10 @@
 [Link](ComparisonOfProgrammingLanguages)
 
 ## Git Commands
-[Link](
-Create Git_Commands)
+[Link](Git_Commands)
 
 ## Neural Algo's
-[LinkNeuralAlgorithms)
+[Link](NeuralAlgorithms)
 
 ## Open Source Tools For Developers
 [Link](Programming_Paradigms)
